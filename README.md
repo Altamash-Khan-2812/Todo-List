@@ -2,7 +2,9 @@
 
 A clean and simple **Todo List application** built with **React**. It allows users to add, delete, and check/uncheck tasks, while also saving data to `localStorage` for persistence.
 
----
+## Live Preview
+
+Click [**HERE**](https://altamash-todo-list.netlify.app/) to see a live demo.
 
 ## Features
 
@@ -13,8 +15,6 @@ A clean and simple **Todo List application** built with **React**. It allows use
 - Saves tasks in `localStorage`
 - Displays live date and time
 - Responsive design for mobile screens
-
----
 
 ## Tech Stack
 
